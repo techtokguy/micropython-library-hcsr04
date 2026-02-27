@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["ultrasound_hcsr04.py", "github:techtokguy/micropython-library-hcsr04/hcsr04.py"],
+  ],
+  "deps": [],
+  "version": "0.2.1"
+}
