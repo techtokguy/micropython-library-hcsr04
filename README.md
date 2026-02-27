@@ -1,3 +1,6 @@
+# Before you start reading
+This is just a fork that add package.json, I writed nothing in all of that
+
 # HC-SR04 Sensor driver in micropython
 
 Micropython driver for the well-known untrasonic sensor [HC-SR04](https://www.mpja.com/download/hc-sr04_ultrasonic_module_user_guidejohn.pdf)
